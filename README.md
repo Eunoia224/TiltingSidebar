@@ -1,7 +1,7 @@
 # TiltingSidebar
 a side bar that tilts about 20 degree to the right made using 
 ### vanila JS and CSS
-don't forget to create an "assets" folder to host the pictures
+don't forget to create an "assets" folder to host the pictures although you can your way of hosting your image
 and also i used a fontawesome CDN for the icons 
 ## screenshots
 ![Screenshot 2021-11-27 191936](https://user-images.githubusercontent.com/72988903/143689026-525dc0eb-5e5c-4558-bd32-7170c204e3c1.png)
