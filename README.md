@@ -1,4 +1,5 @@
 # TiltingSidebar
+#UI #JS 
 a side bar that tilts about 20 degree to the right made using 
 ### vanila JS and CSS
 don't forget to create an "assets" folder to host the pictures although not neccessairy 
